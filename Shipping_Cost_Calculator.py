@@ -1,4 +1,4 @@
-# Here is a new update by ryanwong-jetco
+#  Here is a new update by ryanwong-jetco
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
